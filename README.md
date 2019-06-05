@@ -2,6 +2,7 @@
 Deploy simple CRUD website using PostgreSQL and Python-Flask on  SAP Cloud Platform
 
 Screenshoot
+![alt text](https://github.com/jenizar/flask-postgresql-crud/blob/master/Screenshot.png)
 
 Youtube video:
 https://youtu.be/j-BNQs-wxVY
