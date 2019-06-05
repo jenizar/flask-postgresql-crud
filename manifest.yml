@@ -1,0 +1,7 @@
+---
+applications:
+- name: flask-postgresql-crud
+  memory: 256MB
+  random-route: true
+  services:
+    - postgresql-crud

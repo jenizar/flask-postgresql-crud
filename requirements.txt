@@ -1,0 +1,6 @@
+flask 
+psycopg2
+flask-sqlalchemy 
+sqlalchemy
+datetime
+flask_script
